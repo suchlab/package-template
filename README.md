@@ -1,12 +1,12 @@
 # Basic package template
 ![CI](https://github.com/get-template/package-template/actions/workflows/ci.yml/badge.svg)
 
-### Download template
+## Download template
 ```sh
 npx get-template package
 ````
 
-### Features
+## Features
 Create a TypeScript package with the essential tools:
 
 1. Exports to ESM
