@@ -31,6 +31,9 @@
       "types": "./dist/esm/index.d.ts"
     }
   },
+  "files": [
+    "dist/**/*"
+  ],
   "keywords": [
     "hetzner",
     "sdk",
