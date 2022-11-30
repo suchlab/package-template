@@ -3,7 +3,7 @@
 
 ### Download template
 ```sh
-npx get-template package my-new-package
+npx get-template package
 ````
 
 ### Features
