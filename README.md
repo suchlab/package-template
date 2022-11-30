@@ -14,3 +14,4 @@ Create a TypeScript package with the essential tools:
 3. Accepts tests
 4. Base class created
 5. Axios utils installed
+6. GitHub CI workflow
