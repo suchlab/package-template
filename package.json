@@ -35,16 +35,14 @@
     "dist/**/*"
   ],
   "keywords": [
-    "hetzner",
-    "sdk",
-    "cloud"
+    "base-template"
   ],
-  "homepage": "https://github.com/itaibo",
+  "homepage": "https://github.com/itaibo/package-template",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itaibo.git"
+    "url": "git+https://github.com/itaibo/package-template.git"
   },
   "bugs": {
-    "url": "https://github.com/itaibo/issues"
+    "url": "https://github.com/itaibo/package-template/issues"
   }
 }
