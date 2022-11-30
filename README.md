@@ -1,5 +1,5 @@
-# Package
-![CI](https://github.com/itaibo/package-template/actions/workflows/ci.yml/badge.svg)
+# Basic package template
+![CI](https://github.com/get-template/package-template/actions/workflows/ci.yml/badge.svg)
 
 ### Download template
 ```sh
