@@ -37,12 +37,12 @@
   "keywords": [
     "base-template"
   ],
-  "homepage": "https://github.com/get-template/package-template",
+  "homepage": "https://github.com/suchlab/package-template",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/get-template/package-template.git"
+    "url": "git+https://github.com/suchlab/package-template.git"
   },
   "bugs": {
-    "url": "https://github.com/get-template/package-template/issues"
+    "url": "https://github.com/suchlab/package-template/issues"
   }
 }
