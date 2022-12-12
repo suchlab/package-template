@@ -1,5 +1,5 @@
 # Basic package template
-![CI](https://github.com/get-template/package-template/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/suchlab/package-template/actions/workflows/ci.yml/badge.svg)
 
 ## Download template
 ```sh
